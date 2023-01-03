@@ -1,2 +1,2 @@
 # Qwetu-dishes
-A food recipe application
+A food recipe app api
